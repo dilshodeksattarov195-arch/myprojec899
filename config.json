@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerrave",
+        "uuid": 6631923,
+        "checksum": "zzbmet"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
